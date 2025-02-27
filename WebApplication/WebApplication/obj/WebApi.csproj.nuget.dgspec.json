@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Zsiga\\Documents\\Programming\\jegyfejleszt\\WebApplication\\WebApplication\\WebApplication.csproj": {}
+    "C:\\Users\\Zsiga\\Documents\\Programming\\jegyfejleszt\\WebApplication\\WebApplication\\WebApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Zsiga\\Documents\\Programming\\jegyfejleszt\\WebApplication\\WebApplication\\WebApplication.csproj": {
+    "C:\\Users\\Zsiga\\Documents\\Programming\\jegyfejleszt\\WebApplication\\WebApplication\\WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Zsiga\\Documents\\Programming\\jegyfejleszt\\WebApplication\\WebApplication\\WebApplication.csproj",
-        "projectName": "WebApplication",
-        "projectPath": "C:\\Users\\Zsiga\\Documents\\Programming\\jegyfejleszt\\WebApplication\\WebApplication\\WebApplication.csproj",
+        "projectUniqueName": "C:\\Users\\Zsiga\\Documents\\Programming\\jegyfejleszt\\WebApplication\\WebApplication\\WebApi.csproj",
+        "projectName": "WebApi",
+        "projectPath": "C:\\Users\\Zsiga\\Documents\\Programming\\jegyfejleszt\\WebApplication\\WebApplication\\WebApi.csproj",
         "packagesPath": "C:\\Users\\Zsiga\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Zsiga\\Documents\\Programming\\jegyfejleszt\\WebApplication\\WebApplication\\obj\\",
         "projectStyle": "PackageReference",
