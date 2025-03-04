@@ -5157,23 +5157,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\karac\\.nuget\\packages\\": {},
-    "D:\\Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\wenin\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Rendszerfejlesztes\\WebApplication\\WebApplication\\WebApi.csproj",
+      "projectUniqueName": "E:\\Iskola\\IV. félév\\Rendszerfejlesztés\\Projekt\\WebApplication\\WebApplication\\WebApi.csproj",
       "projectName": "WebApi",
-      "projectPath": "D:\\Rendszerfejlesztes\\WebApplication\\WebApplication\\WebApi.csproj",
-      "packagesPath": "C:\\Users\\karac\\.nuget\\packages\\",
-      "outputPath": "D:\\Rendszerfejlesztes\\WebApplication\\WebApplication\\obj\\",
+      "projectPath": "E:\\Iskola\\IV. félév\\Rendszerfejlesztés\\Projekt\\WebApplication\\WebApplication\\WebApi.csproj",
+      "packagesPath": "C:\\Users\\wenin\\.nuget\\packages\\",
+      "outputPath": "E:\\Iskola\\IV. félév\\Rendszerfejlesztés\\Projekt\\WebApplication\\WebApplication\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "D:\\Visual Studio\\Shared\\NuGetPackages"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\karac\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\wenin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
