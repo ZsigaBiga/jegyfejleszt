@@ -6,10 +6,12 @@ using System.Threading.Tasks;
 
 namespace WebApp.DataContext.Entities
 {
-    public class User
+     public class Seat
     {
-        public int Id { get; set; }
+        public int Row { get; set; }
 
+        public int Column { get; set; }
 
+        public bool Available { get; set; }
     }
 }

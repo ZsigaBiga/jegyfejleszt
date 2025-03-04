@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Iskola\\IV. félév\\Rendszerfejlesztés\\Projekt\\WebApplication\\WebApplication\\WebApi.csproj": {}
+    "C:\\Users\\ASUS\\source\\repos\\jegyfejleszt\\WebApplication\\WebApplication\\WebApi.csproj": {}
   },
   "projects": {
-    "E:\\Iskola\\IV. félév\\Rendszerfejlesztés\\Projekt\\WebApplication\\WebApplication\\WebApi.csproj": {
+    "C:\\Users\\ASUS\\source\\repos\\jegyfejleszt\\WebApplication\\WebApplication\\WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Iskola\\IV. félév\\Rendszerfejlesztés\\Projekt\\WebApplication\\WebApplication\\WebApi.csproj",
+        "projectUniqueName": "C:\\Users\\ASUS\\source\\repos\\jegyfejleszt\\WebApplication\\WebApplication\\WebApi.csproj",
         "projectName": "WebApi",
-        "projectPath": "E:\\Iskola\\IV. félév\\Rendszerfejlesztés\\Projekt\\WebApplication\\WebApplication\\WebApi.csproj",
-        "packagesPath": "C:\\Users\\wenin\\.nuget\\packages\\",
-        "outputPath": "E:\\Iskola\\IV. félév\\Rendszerfejlesztés\\Projekt\\WebApplication\\WebApplication\\obj\\",
+        "projectPath": "C:\\Users\\ASUS\\source\\repos\\jegyfejleszt\\WebApplication\\WebApplication\\WebApi.csproj",
+        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ASUS\\source\\repos\\jegyfejleszt\\WebApplication\\WebApplication\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\wenin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
