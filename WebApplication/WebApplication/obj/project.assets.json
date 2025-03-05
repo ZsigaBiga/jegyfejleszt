@@ -1698,6 +1698,29 @@
             "rid": "win"
           }
         }
+      },
+      "WebApp.DataContext/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore.SqlServer": "9.0.2"
+        },
+        "compile": {
+          "bin/placeholder/WebApp.DataContext.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/WebApp.DataContext.dll": {}
+        }
+      },
+      "WebApp.Services/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/WebApp.Services.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/WebApp.Services.dll": {}
+        }
       }
     }
   },
@@ -5146,6 +5169,16 @@
         "system.windows.extensions.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "WebApp.DataContext/1.0.0": {
+      "type": "project",
+      "path": "../WebApp.DataContext/WebApp.DataContext.csproj",
+      "msbuildProject": "../WebApp.DataContext/WebApp.DataContext.csproj"
+    },
+    "WebApp.Services/1.0.0": {
+      "type": "project",
+      "path": "../WebApp.Services/WebApp.Services.csproj",
+      "msbuildProject": "../WebApp.Services/WebApp.Services.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -5153,7 +5186,9 @@
       "Microsoft.EntityFrameworkCore.Design >= 9.0.2",
       "Microsoft.EntityFrameworkCore.SqlServer >= 9.0.2",
       "Microsoft.EntityFrameworkCore.Tools >= 9.0.2",
-      "Swashbuckle.AspNetCore >= 7.3.0"
+      "Swashbuckle.AspNetCore >= 7.3.0",
+      "WebApp.DataContext >= 1.0.0",
+      "WebApp.Services >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -5187,7 +5222,14 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\Rendszerfejlesztes\\WebApplication\\WebApp.DataContext\\WebApp.DataContext.csproj": {
+              "projectPath": "D:\\Rendszerfejlesztes\\WebApplication\\WebApp.DataContext\\WebApp.DataContext.csproj"
+            },
+            "D:\\Rendszerfejlesztes\\WebApplication\\WebApp.Services\\WebApp.Services.csproj": {
+              "projectPath": "D:\\Rendszerfejlesztes\\WebApplication\\WebApp.Services\\WebApp.Services.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

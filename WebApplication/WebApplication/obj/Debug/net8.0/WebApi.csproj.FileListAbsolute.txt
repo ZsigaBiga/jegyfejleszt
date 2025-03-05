@@ -344,3 +344,7 @@ D:\Rendszerfejlesztes\WebApplication\WebApplication\obj\Debug\net8.0\refint\WebA
 D:\Rendszerfejlesztes\WebApplication\WebApplication\obj\Debug\net8.0\WebApi.pdb
 D:\Rendszerfejlesztes\WebApplication\WebApplication\obj\Debug\net8.0\WebApi.genruntimeconfig.cache
 D:\Rendszerfejlesztes\WebApplication\WebApplication\obj\Debug\net8.0\ref\WebApi.dll
+D:\Rendszerfejlesztes\WebApplication\WebApplication\bin\Debug\net8.0\WebApp.DataContext.dll
+D:\Rendszerfejlesztes\WebApplication\WebApplication\bin\Debug\net8.0\WebApp.Services.dll
+D:\Rendszerfejlesztes\WebApplication\WebApplication\bin\Debug\net8.0\WebApp.DataContext.pdb
+D:\Rendszerfejlesztes\WebApplication\WebApplication\bin\Debug\net8.0\WebApp.Services.pdb

@@ -4,6 +4,7 @@
     <TargetFramework>net8.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
+    <UserSecretsId>8c1550c3-fa8b-448d-8e71-2182280be095</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>
@@ -18,5 +19,10 @@
     </PackageReference>
     <PackageReference Include="Swashbuckle.AspNetCore" Version="7.3.0" />
   </ItemGroup>
+
+	<ItemGroup>
+		<ProjectReference Include="..\WebApp.DataContext\WebApp.DataContext.csproj" />
+		<ProjectReference Include="..\WebApp.Services\WebApp.Services.csproj" />
+	</ItemGroup>
 
 </Project>
