@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ASUS\\source\\repos\\jegyfejleszt\\WebApplication\\WebApplication\\WebApi.csproj": {}
+    "D:\\Rendszerfejlesztes\\WebApplication\\WebApplication\\WebApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ASUS\\source\\repos\\jegyfejleszt\\WebApplication\\WebApplication\\WebApi.csproj": {
+    "D:\\Rendszerfejlesztes\\WebApplication\\WebApplication\\WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ASUS\\source\\repos\\jegyfejleszt\\WebApplication\\WebApplication\\WebApi.csproj",
+        "projectUniqueName": "D:\\Rendszerfejlesztes\\WebApplication\\WebApplication\\WebApi.csproj",
         "projectName": "WebApi",
-        "projectPath": "C:\\Users\\ASUS\\source\\repos\\jegyfejleszt\\WebApplication\\WebApplication\\WebApi.csproj",
-        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ASUS\\source\\repos\\jegyfejleszt\\WebApplication\\WebApplication\\obj\\",
+        "projectPath": "D:\\Rendszerfejlesztes\\WebApplication\\WebApplication\\WebApi.csproj",
+        "packagesPath": "C:\\Users\\karac\\.nuget\\packages\\",
+        "outputPath": "D:\\Rendszerfejlesztes\\WebApplication\\WebApplication\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "D:\\Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\karac\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
